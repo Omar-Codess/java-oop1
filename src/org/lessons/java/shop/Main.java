@@ -1,10 +1,17 @@
 package org.lessons.java.shop;
-
-import java.util.Arrays;
+import java.util.Random;
 
 public class Main {
     public static void main(String[] args){
-        Prodotto[] prodotti = new Prodotto[1];
-        System.out.println(Arrays.toString(prodotti));
+        Prodotto test = new Prodotto();
+
+        test.name = "Accendino";
+        test.description = "Rosso, leggero e compatto";
+        test.price = 2.10;
+
+        System.out.println(test.getFullName());
+        System.out.println(test.getPrice());
+        System.out.println(test.getFullPrice());
+
     }
 }

@@ -5,9 +5,9 @@ import java.util.Random;
 public class Prodotto {
     //CAMPI
     private int code;
-    public String name = "Pinco";
-    public String description = "Pallino";
-    protected double price = 17.25;
+    public String name;
+    public String description;
+    protected double price;
     protected double vat = 0.22;
 
     //COSTRUTTORE
@@ -28,15 +28,16 @@ public class Prodotto {
         return price = (price * vat) + price;
     }
 
+    //Metodo per settare il nome
+    public void setName(String Name) {
+        this.name = name;
+    }
+
     //Metodo per ottenere il nome con il codice
     public String getFullName(){
         return code + name;
     }
 
-    //Metodo per settare il nome
-    public void setName(String Name) {
-        this.name = name;
-    }
 }
 
 
