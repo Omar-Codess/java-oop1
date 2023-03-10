@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bf81c79-d0f1-4362-a1d2-8ccee2c7a392" name="Changes" comment="creato metodo per settare il nome">
+    <list default="true" id="6bf81c79-d0f1-4362-a1d2-8ccee2c7a392" name="Changes" comment="effettuati test in main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678463156207</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="effettuati test in main">
+      <created>1678465959322</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678465959322</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -109,6 +114,7 @@
     <MESSAGE value="creata classe main" />
     <MESSAGE value="corretto metodo &quot;getFullPrice&quot;" />
     <MESSAGE value="creato metodo per settare il nome" />
-    <option name="LAST_COMMIT_MESSAGE" value="creato metodo per settare il nome" />
+    <MESSAGE value="effettuati test in main" />
+    <option name="LAST_COMMIT_MESSAGE" value="effettuati test in main" />
   </component>
 </project>
