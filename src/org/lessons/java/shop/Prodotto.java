@@ -11,8 +11,34 @@ public class Prodotto {
     protected double vat = 0.21;
 
     //COSTRUTTORE
+
+    //Codice valorizzato con numero random
     public Prodotto(){
         Random rdnCode = new Random();
         code = rdnCode.nextInt(10000);
     }
+
+    //Metodo per avere il prezzo base
+    public double getPrice(){
+        return price;
+    }
+
+    //Metodo per avere il prezzo finale
+    public double getFullPrice(){
+        return price + vat;
+    }
+
+    //Metodo per ottenere il nome con il codice
+    public String getFullName(){
+        return
+    }
 }
+
+
+
+
+
+
+
+
+
