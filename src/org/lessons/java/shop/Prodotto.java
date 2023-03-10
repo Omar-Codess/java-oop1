@@ -5,10 +5,10 @@ import java.util.Random;
 public class Prodotto {
     //CAMPI
     private int code;
-    public String name;
-    public String description;
-    protected double price;
-    protected double vat = 0.21;
+    public String name = "Pinco";
+    public String description = "Pallino";
+    protected double price = 17.25;
+    protected double vat = 0.22;
 
     //COSTRUTTORE
 
@@ -25,7 +25,7 @@ public class Prodotto {
 
     //Metodo per avere il prezzo finale
     public double getFullPrice(){
-        return price + vat;
+        return price = (price * vat) + price;
     }
 
     //Metodo per ottenere il nome con il codice
