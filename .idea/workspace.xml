@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bf81c79-d0f1-4362-a1d2-8ccee2c7a392" name="Changes" comment="effettuati test in main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6bf81c79-d0f1-4362-a1d2-8ccee2c7a392" name="Changes" comment="creata classe Conto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678465959322</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="creata classe Conto">
+      <created>1678466906588</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678466906588</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +120,7 @@
     <MESSAGE value="corretto metodo &quot;getFullPrice&quot;" />
     <MESSAGE value="creato metodo per settare il nome" />
     <MESSAGE value="effettuati test in main" />
-    <option name="LAST_COMMIT_MESSAGE" value="effettuati test in main" />
+    <MESSAGE value="creata classe Conto" />
+    <option name="LAST_COMMIT_MESSAGE" value="creata classe Conto" />
   </component>
 </project>
