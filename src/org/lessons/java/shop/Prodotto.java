@@ -32,6 +32,11 @@ public class Prodotto {
     public String getFullName(){
         return code + name;
     }
+
+    //Metodo per settare il nome
+    public void setName(String Name) {
+        this.name = name;
+    }
 }
 
 

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bf81c79-d0f1-4362-a1d2-8ccee2c7a392" name="Changes" comment="creato metodo per ottenere il nome completo di codice">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    <list default="true" id="6bf81c79-d0f1-4362-a1d2-8ccee2c7a392" name="Changes" comment="corretto metodo &quot;getFullPrice&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678459232583</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="creata classe main">
+      <created>1678459471118</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678459471118</updated>
+    </task>
+    <task id="LOCAL-00006" summary="corretto metodo &quot;getFullPrice&quot;">
+      <created>1678459780417</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678459780417</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -84,6 +98,8 @@
     <MESSAGE value="cambiato campo &quot;code&quot; in private e creata funzione per generare random code" />
     <MESSAGE value="creati metodi per ottenere il prezzo" />
     <MESSAGE value="creato metodo per ottenere il nome completo di codice" />
-    <option name="LAST_COMMIT_MESSAGE" value="creato metodo per ottenere il nome completo di codice" />
+    <MESSAGE value="creata classe main" />
+    <MESSAGE value="corretto metodo &quot;getFullPrice&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="corretto metodo &quot;getFullPrice&quot;" />
   </component>
 </project>
