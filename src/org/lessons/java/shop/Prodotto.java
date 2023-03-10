@@ -30,7 +30,7 @@ public class Prodotto {
 
     //Metodo per ottenere il nome con il codice
     public String getFullName(){
-        return
+        return code + name;
     }
 }
 

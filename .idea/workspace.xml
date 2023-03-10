@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bf81c79-d0f1-4362-a1d2-8ccee2c7a392" name="Changes" comment="cambiato campo &quot;code&quot; in private e creata funzione per generare random code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6bf81c79-d0f1-4362-a1d2-8ccee2c7a392" name="Changes" comment="creati metodi per ottenere il prezzo">
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678458025522</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="creati metodi per ottenere il prezzo">
+      <created>1678459088382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678459088382</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creati i campi della classe Prodotto" />
     <MESSAGE value="creato costruttore prodotto" />
     <MESSAGE value="cambiato campo &quot;code&quot; in private e creata funzione per generare random code" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambiato campo &quot;code&quot; in private e creata funzione per generare random code" />
+    <MESSAGE value="creati metodi per ottenere il prezzo" />
+    <option name="LAST_COMMIT_MESSAGE" value="creati metodi per ottenere il prezzo" />
   </component>
 </project>
