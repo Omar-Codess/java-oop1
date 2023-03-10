@@ -1,19 +1,18 @@
 package org.lessons.java.shop;
 
+import java.util.Random;
+
 public class Prodotto {
     //CAMPI
-    public int code;
+    private int code;
     public String name;
     public String description;
     protected double price;
-    protected double vat;
+    protected double vat = 0.21;
 
     //COSTRUTTORE
     public Prodotto(){
-        code = 1234;
-        name = "accendino";
-        description = "rosso, ricaricabile, lunga durata";
-        price = 2;
-        vat = 0.50;
+        Random rdnCode = new Random();
+        code = rdnCode.nextInt(10000);
     }
 }

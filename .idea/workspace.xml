@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bf81c79-d0f1-4362-a1d2-8ccee2c7a392" name="Changes" comment="Creati i campi della classe Prodotto">
+    <list default="true" id="6bf81c79-d0f1-4362-a1d2-8ccee2c7a392" name="Changes" comment="creato costruttore prodotto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" afterDir="false" />
     </list>
@@ -47,10 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1678453938030</updated>
     </task>
+    <task id="LOCAL-00001" summary="creato costruttore prodotto">
+      <created>1678456083102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678456083102</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creati i campi della classe Prodotto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creati i campi della classe Prodotto" />
+    <MESSAGE value="creato costruttore prodotto" />
+    <option name="LAST_COMMIT_MESSAGE" value="creato costruttore prodotto" />
   </component>
 </project>
