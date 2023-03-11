@@ -29,8 +29,8 @@ public class Prodotto {
     }
 
     //Metodo per settare il nome
-    public void setName(String Name) {
-        this.name = name;
+    public String setName(String newName) {
+        return this.name = newName;
     }
 
     //Metodo per ottenere il nome con il codice

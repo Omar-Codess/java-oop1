@@ -9,6 +9,7 @@ public class Main {
         test.description = "Rosso, leggero e compatto";
         test.price = 2.10;
 
+        System.out.println(test.setName("Ombrello"));
         System.out.println(test.getFullName());
         System.out.println(test.getPrice());
         System.out.println(test.getFullPrice());
